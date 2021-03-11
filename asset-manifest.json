@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-material-ui-search-filter/static/css/main.b3e5151c.chunk.css",
+    "main.js": "/react-material-ui-search-filter/static/js/main.abf238e2.chunk.js",
+    "main.js.map": "/react-material-ui-search-filter/static/js/main.abf238e2.chunk.js.map",
+    "runtime-main.js": "/react-material-ui-search-filter/static/js/runtime-main.9fce7d77.js",
+    "runtime-main.js.map": "/react-material-ui-search-filter/static/js/runtime-main.9fce7d77.js.map",
+    "static/js/2.4dc737cb.chunk.js": "/react-material-ui-search-filter/static/js/2.4dc737cb.chunk.js",
+    "static/js/2.4dc737cb.chunk.js.map": "/react-material-ui-search-filter/static/js/2.4dc737cb.chunk.js.map",
+    "index.html": "/react-material-ui-search-filter/index.html",
+    "precache-manifest.72cce4bf64a7769bcaa9b9e92536f2c2.js": "/react-material-ui-search-filter/precache-manifest.72cce4bf64a7769bcaa9b9e92536f2c2.js",
+    "service-worker.js": "/react-material-ui-search-filter/service-worker.js",
+    "static/css/main.b3e5151c.chunk.css.map": "/react-material-ui-search-filter/static/css/main.b3e5151c.chunk.css.map",
+    "static/js/2.4dc737cb.chunk.js.LICENSE.txt": "/react-material-ui-search-filter/static/js/2.4dc737cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fce7d77.js",
+    "static/js/2.4dc737cb.chunk.js",
+    "static/css/main.b3e5151c.chunk.css",
+    "static/js/main.abf238e2.chunk.js"
+  ]
+}
